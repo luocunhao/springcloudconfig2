@@ -1,0 +1,9 @@
+#server port
+server:
+  port: 8088
+
+#baidu face properties
+baidu:
+  appid: 10505240
+  apikey: 1KOGPchIHOYFkdcx9w9FqTPh
+  secretkey: aBKPNao97lomKt2NhXnQ04MzkuIINhyz

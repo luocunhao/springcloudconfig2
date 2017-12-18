@@ -1,0 +1,8 @@
+2017-12-13 10:44:05 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-13 10:44:06 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-13 11:22:34 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-13 11:22:34 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-13 14:12:58 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-13 14:12:58 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-13 14:25:22 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-13 14:25:22 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml

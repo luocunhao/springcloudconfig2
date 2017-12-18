@@ -1,0 +1,28 @@
+2017-12-09 11:13:29 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-09 11:13:29 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-09 11:14:35 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-09 11:14:35 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-09 11:19:55 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-09 11:19:55 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-09 11:22:15 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-09 11:22:15 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-09 11:24:21 [qtp620261614-39] INFO  [com.pulan.dialogserver.controller.AppShiroController] - imei是否合法>>>>>>>>>>>>>>>:77a8bfb6c7222b5143636f03e3f7bce6
+2017-12-09 11:24:22 [qtp620261614-39] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-09 11:24:22 [qtp620261614-39] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-12-09 11:26:44 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-09 11:26:44 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-09 11:26:58 [qtp5933746-37] INFO  [com.pulan.dialogserver.controller.AppShiroController] - imei是否合法>>>>>>>>>>>>>>>:77a8bfb6c7222b5143636f03e3f7bce6
+2017-12-09 11:26:58 [qtp5933746-37] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-09 11:26:58 [qtp5933746-37] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-12-09 11:29:38 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-09 11:29:38 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-09 11:29:57 [qtp1111249924-36] INFO  [com.pulan.dialogserver.controller.AppShiroController] - imei是否合法>>>>>>>>>>>>>>>:77a8bfb6c7222b5143636f03e3f7bce6
+2017-12-09 11:29:57 [qtp1111249924-36] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-09 11:29:57 [qtp1111249924-36] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-12-09 11:32:00 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-09 11:32:00 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-09 11:32:16 [qtp1701388960-41] INFO  [com.pulan.dialogserver.controller.AppShiroController] - imei是否合法>>>>>>>>>>>>>>>:77a8bfb6c7222b5143636f03e3f7bce6
+2017-12-09 11:32:16 [qtp1701388960-41] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-09 11:32:16 [qtp1701388960-41] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-12-09 11:38:59 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro�Ѿ�����----------------
+2017-12-09 11:38:59 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - ���������ļ�·��classpath:config/ehcache-shiro.xml

@@ -1,0 +1,23 @@
+2017-12-07 16:20:55 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-07 16:20:55 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-07 16:22:29 [qtp551056181-38] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-07 16:22:50 [qtp551056181-44] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-07 16:23:12 [qtp551056181-42] INFO  [com.pulan.dialogserver.controller.AppShiroController] - imei是否合法>>>>>>>>>>>>>>>:null
+2017-12-07 16:23:24 [qtp551056181-41] INFO  [com.pulan.dialogserver.controller.AppShiroController] - imei是否合法>>>>>>>>>>>>>>>:null
+2017-12-07 16:24:02 [qtp551056181-44] INFO  [com.pulan.dialogserver.controller.AppShiroController] - imei是否合法>>>>>>>>>>>>>>>:null
+2017-12-07 16:24:27 [qtp551056181-42] INFO  [com.pulan.dialogserver.controller.AppShiroController] - imei是否合法>>>>>>>>>>>>>>>:77a8bfb6c7222b5143636f03e3f7bce6
+2017-12-07 16:24:38 [qtp551056181-42] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-07 16:24:38 [qtp551056181-42] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-12-07 16:25:27 [qtp551056181-42] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-07 16:25:27 [qtp551056181-42] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-12-07 16:25:41 [qtp551056181-41] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-07 16:25:41 [qtp551056181-41] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-12-07 16:28:02 [qtp551056181-44] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.iok.la:8800/test/%E6%8F%90%E9%86%92%E6%88%919%E7%82%B9%E5%90%83%E9%A5%AD
+2017-12-07 16:28:04 [qtp551056181-44] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "提醒我9点吃饭",     "index": 0,     "rc": 0.9947974681854248,     "semantic": [      {        "intent": "Set",         "slots": [          {            "content": "吃饭",             "datetime": "2017-12-07 21:00:00",             "person": "我"          }        ]      }    ],     "service": "Reminder",     "utterance": "Reminder"  }]
+2017-12-07 16:29:44 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-12-07 16:29:44 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-12-07 16:30:57 [qtp900073076-38] INFO  [com.pulan.dialogserver.controller.AppShiroController] - imei是否合法>>>>>>>>>>>>>>>:77a8bfb6c7222b5143636f03e3f7bce6
+2017-12-07 16:30:57 [qtp900073076-38] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-12-07 16:30:57 [qtp900073076-38] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-12-07 16:31:13 [qtp900073076-39] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.iok.la:8800/test/%E6%8F%90%E9%86%92%E6%88%919%E7%82%B915%E5%88%86%E5%90%83%E9%A5%AD
+2017-12-07 16:31:14 [qtp900073076-39] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "提醒我9点15分吃饭",     "index": 0,     "rc": 0.9954350590705872,     "semantic": [      {        "intent": "Set",         "slots": [          {            "content": "吃饭",             "datetime": "2017-12-07 21:15:00",             "person": "我"          }        ]      }    ],     "service": "Reminder",     "utterance": "Reminder"  }]

@@ -1,0 +1,20 @@
+2017-12-06 14:05:27 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiroÒÑ¾­¼ÓÔØ----------------
+2017-12-06 14:05:27 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - »º´æÅäÖÃÎÄ¼şÂ·¾¶classpath:config/ehcache-shiro.xml
+2017-12-06 14:31:06 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiroÒÑ¾­¼ÓÔØ----------------
+2017-12-06 14:31:06 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - »º´æÅäÖÃÎÄ¼şÂ·¾¶classpath:config/ehcache-shiro.xml
+2017-12-06 22:17:26 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiroå·²ç»åŠ è½½----------------
+2017-12-06 22:17:27 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - ç¼“å­˜é…ç½®æ–‡ä»¶è·¯å¾„classpath:config/ehcache-shiro.xml
+2017-12-06 22:22:17 [qtp2147002844-47] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - èº«ä»½è®¤è¯ç™»å½•
+2017-12-06 22:22:17 [qtp2147002844-47] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - ç”¨æˆ·å  :luolp, å¯†ç  : hyn12345
+2017-12-06 22:23:03 [qtp2147002844-45] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - èº«ä»½è®¤è¯ç™»å½•
+2017-12-06 22:23:03 [qtp2147002844-45] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - ç”¨æˆ·å  :luolp, å¯†ç  : hyn12345
+2017-12-06 22:23:21 [qtp2147002844-48] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.iok.la:8800/slot/%E6%88%91%E7%9A%84%E4%BC%9A%E8%AE%AE?type=null
+2017-12-06 22:23:21 [qtp2147002844-48] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:{  "content": "æˆ‘çš„ä¼šè®®",   "service": "getSlots"}
+2017-12-06 22:24:07 [qtp2147002844-48] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - èº«ä»½è®¤è¯ç™»å½•
+2017-12-06 22:24:07 [qtp2147002844-48] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - ç”¨æˆ·å  :luolp, å¯†ç  : hyn12345
+2017-12-06 22:24:11 [qtp2147002844-49] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.iok.la:8800/test/%E6%88%91%E7%9A%84%E4%BC%9A%E8%AE%AE
+2017-12-06 22:24:11 [qtp2147002844-49] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "æˆ‘çš„ä¼šè®®",     "index": 0,     "rc": 0.998256266117096,     "semantic": [      {        "intent": "Query",         "slots": [          {            "person": "æˆ‘"          }        ]      }    ],     "service": "Meeting",     "utterance": "Meeting"  }]
+2017-12-06 22:24:22 [qtp2147002844-45] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.iok.la:8800/slot/%E4%BB%8A%E5%A4%A9?type=Meeting
+2017-12-06 22:24:23 [qtp2147002844-45] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:{  "content": "ä»Šå¤©",   "service": "getSlots"}
+2017-12-06 22:24:36 [qtp2147002844-48] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.iok.la:8800/slot/%E4%BB%8A%E5%A4%A9?type=Meeting
+2017-12-06 22:24:37 [qtp2147002844-48] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:{  "content": "ä»Šå¤©",   "service": "getSlots"}

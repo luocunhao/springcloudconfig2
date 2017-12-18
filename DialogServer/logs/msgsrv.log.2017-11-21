@@ -1,0 +1,14 @@
+2017-11-21 15:07:24 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-21 15:07:24 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-21 15:08:38 [qtp1763750076-43] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-21 15:08:38 [qtp1763750076-43] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-21 15:08:58 [qtp1763750076-44] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E5%8F%91%E9%82%AE%E4%BB%B6%E7%BB%99%E7%BD%97%E4%B8%BD%E8%90%8D
+2017-11-21 15:08:58 [qtp1763750076-44] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "发邮件给罗丽萍",     "error": "Can't match any slots.",     "index": 0,     "rc": 1.0,     "semantic": [      {        "intent": "Send"      }    ],     "service": "Email"  }]
+2017-11-21 16:45:37 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-21 16:45:37 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-21 16:45:51 [qtp1456464145-39] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-21 16:45:51 [qtp1456464145-39] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-21 16:46:08 [qtp1456464145-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E5%8F%91%E9%82%AE%E4%BB%B6%E7%BB%99%E7%BD%97%E5%88%A9%E5%B9%B3
+2017-11-21 16:46:08 [qtp1456464145-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "发邮件给罗利平",     "index": 0,     "rc": 1.0,     "semantic": [      {        "intent": "Send",         "slots": [          {            "person": "罗利平"          }        ]      }    ],     "service": "Email"  }]
+2017-11-21 16:47:37 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro�Ѿ�����----------------
+2017-11-21 16:47:37 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - ���������ļ�·��classpath:config/ehcache-shiro.xml

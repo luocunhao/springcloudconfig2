@@ -1,0 +1,60 @@
+2017-11-30 14:16:54 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro�Ѿ�����----------------
+2017-11-30 14:16:54 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - ���������ļ�·��classpath:config/ehcache-shiro.xml
+2017-11-30 20:01:30 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro�Ѿ�����----------------
+2017-11-30 20:01:30 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - ���������ļ�·��classpath:config/ehcache-shiro.xml
+2017-11-30 20:04:16 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-30 20:04:16 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-30 20:05:50 [qtp729375394-40] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-30 20:05:50 [qtp729375394-40] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-30 20:06:03 [qtp729375394-34] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E6%89%93%E5%BC%80%E7%A9%BA%E8%B0%83
+2017-11-30 20:06:03 [qtp729375394-34] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "打开空调",     "index": 0,     "rc": 0.999390721321106,     "semantic": [      {        "intent": "On",         "slots": [          {            "command": "开"          }        ]      }    ],     "service": "AirConditioner"  }]
+2017-11-30 21:56:47 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-30 21:56:47 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-30 21:57:06 [qtp1875304119-39] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-30 21:57:06 [qtp1875304119-39] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-30 21:57:25 [qtp1875304119-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E6%9F%A5%E8%80%83%E5%8B%A4
+2017-11-30 21:57:25 [qtp1875304119-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "查考勤",     "index": 0,     "rc": 0.9999654293060303,     "semantic": [      {        "intent": "Query"      }    ],     "service": "Attendance"  }]
+2017-11-30 21:58:33 [qtp1875304119-37] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E6%9F%A5%E8%80%83%E5%8B%A4
+2017-11-30 21:58:34 [qtp1875304119-37] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "查考勤",     "index": 0,     "rc": 0.9999654293060303,     "semantic": [      {        "intent": "Query"      }    ],     "service": "Attendance"  }]
+2017-11-30 22:05:23 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-30 22:05:23 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-30 22:05:34 [qtp260620222-37] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-30 22:05:34 [qtp260620222-37] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-30 22:05:37 [qtp260620222-35] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E6%9F%A5%E8%80%83%E5%8B%A4
+2017-11-30 22:05:37 [qtp260620222-35] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "查考勤",     "index": 0,     "rc": 0.9999654293060303,     "semantic": [      {        "intent": "Query"      }    ],     "service": "Attendance"  }]
+2017-11-30 22:08:46 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-30 22:08:46 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-30 22:09:09 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-30 22:09:09 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-30 22:09:20 [qtp2137552114-39] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-30 22:09:20 [qtp2137552114-39] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-30 22:10:25 [qtp2137552114-40] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-30 22:10:25 [qtp2137552114-40] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-30 22:10:42 [qtp2137552114-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E6%9F%A5%E8%80%83%E5%8B%A4
+2017-11-30 22:10:42 [qtp2137552114-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "查考勤",     "index": 0,     "rc": 0.9999654293060303,     "semantic": [      {        "intent": "Query"      }    ],     "service": "Attendance"  }]
+2017-11-30 22:16:03 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-30 22:16:03 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-30 22:16:14 [qtp773708944-40] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-30 22:16:14 [qtp773708944-40] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-30 22:16:23 [qtp773708944-37] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E6%9F%A5%E8%80%83%E5%8B%A4
+2017-11-30 22:16:23 [qtp773708944-37] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "查考勤",     "index": 0,     "rc": 0.9999654293060303,     "semantic": [      {        "intent": "Query"      }    ],     "service": "Attendance"  }]
+2017-11-30 22:24:56 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-30 22:24:56 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-30 22:25:28 [qtp654003462-40] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-30 22:25:28 [qtp654003462-40] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-30 22:26:11 [qtp654003462-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/slot/%E6%98%A8%E5%A4%A9%E7%9A%84?type=date
+2017-11-30 22:26:11 [qtp654003462-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:{  "content": "昨天的",   "service": "getSlots",   "slots": [    {      "date": "2017-11-29",       "date_range": [        0,         2      ]    }  ]}
+2017-11-30 22:28:15 [qtp654003462-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E6%9F%A5%E8%80%83%E5%8B%A4
+2017-11-30 22:28:15 [qtp654003462-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "查考勤",     "index": 0,     "rc": 0.9999654293060303,     "semantic": [      {        "intent": "Query"      }    ],     "service": "Attendance"  }]
+2017-11-30 22:29:00 [qtp654003462-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/slot/%E6%98%A8%E5%A4%A9%E7%9A%84?type=date
+2017-11-30 22:29:00 [qtp654003462-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:{  "content": "昨天的",   "service": "getSlots",   "slots": [    {      "date": "2017-11-29",       "date_range": [        0,         2      ]    }  ]}
+2017-11-30 22:39:04 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiro已经加载----------------
+2017-11-30 22:39:04 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - 缓存配置文件路径classpath:config/ehcache-shiro.xml
+2017-11-30 22:39:18 [qtp520354720-36] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 身份认证登录
+2017-11-30 22:39:18 [qtp520354720-36] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - 用户名  :luolp, 密码 : hyn12345
+2017-11-30 22:39:41 [qtp520354720-39] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/slot/%E6%9F%A5%E8%80%83%E5%8B%A4?type=date
+2017-11-30 22:39:41 [qtp520354720-39] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:{  "content": "查考勤",   "service": "getSlots"}
+2017-11-30 22:39:50 [qtp520354720-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E6%9F%A5%E8%80%83%E5%8B%A4
+2017-11-30 22:39:50 [qtp520354720-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "查考勤",     "index": 0,     "rc": 0.9999654293060303,     "semantic": [      {        "intent": "Query"      }    ],     "service": "Attendance"  }]
+2017-11-30 22:40:21 [qtp520354720-39] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/slot/%E6%98%A8%E5%A4%A9%E7%9A%84?type=date
+2017-11-30 22:40:22 [qtp520354720-39] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:{  "content": "昨天的",   "service": "getSlots",   "slots": [    {      "date": "2017-11-29",       "date_range": [        0,         2      ]    }  ]}

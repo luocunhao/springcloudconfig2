@@ -1,0 +1,16 @@
+2017-11-28 15:12:00 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiroå·²ç»åŠ è½½----------------
+2017-11-28 15:12:01 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - ç¼“å­˜é…ç½®æ–‡ä»¶è·¯å¾„classpath:config/ehcache-shiro.xml
+2017-11-28 15:13:01 [qtp2106609649-45] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - èº«ä»½è®¤è¯ç™»å½•
+2017-11-28 15:13:01 [qtp2106609649-45] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - ç”¨æˆ·å  :luolp, å¯†ç  : hyn12345
+2017-11-28 15:13:34 [qtp2106609649-43] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E7%A9%BA%E8%B0%83%E8%AE%BE%E7%BD%AE%E4%B8%BA16%E5%BA%A6
+2017-11-28 15:13:35 [qtp2106609649-43] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "ç©ºè°ƒè®¾ç½®ä¸º16åº¦",     "index": 0,     "rc": 0.9998542070388794,     "semantic": [      {        "intent": "Control",         "slots": [          {            "temperature": 16          }        ]      }    ],     "service": "AirConditioner"  }]
+2017-11-28 15:18:23 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiroå·²ç»åŠ è½½----------------
+2017-11-28 15:18:23 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - ç¼“å­˜é…ç½®æ–‡ä»¶è·¯å¾„classpath:config/ehcache-shiro.xml
+2017-11-28 15:18:50 [qtp1549623669-35] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - èº«ä»½è®¤è¯ç™»å½•
+2017-11-28 15:18:50 [qtp1549623669-35] INFO  [com.pulan.dialogserver.shiro.LdapAuthRealm] - ç”¨æˆ·å  :luolp, å¯†ç  : hyn12345
+2017-11-28 15:18:53 [qtp1549623669-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Request for Pulan AI Server:http://pulanbd.vicp.io:8800/test/%E7%A9%BA%E8%B0%83%E8%AE%BE%E7%BD%AE20%E5%BA%A6
+2017-11-28 15:18:54 [qtp1549623669-38] INFO  [com.pulan.dialogserver.api.RobotRequest] - Pulan AI Server response:[  {    "content": "ç©ºè°ƒè®¾ç½®20åº¦",     "index": 0,     "rc": 0.9866248369216919,     "semantic": [      {        "intent": "Control",         "slots": [          {            "temperature": 20          }        ]      }    ],     "service": "AirConditioner"  }]
+2017-11-28 15:20:03 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiroÒÑ¾­¼ÓÔØ----------------
+2017-11-28 15:20:03 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - »º´æÅäÖÃÎÄ¼şÂ·¾¶classpath:config/ehcache-shiro.xml
+2017-11-28 16:01:40 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - --------------shiroÒÑ¾­¼ÓÔØ----------------
+2017-11-28 16:01:40 [main] INFO  [com.pulan.dialogserver.config.ShiroConfiguration] - »º´æÅäÖÃÎÄ¼şÂ·¾¶classpath:config/ehcache-shiro.xml
