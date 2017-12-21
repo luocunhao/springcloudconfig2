@@ -10,7 +10,7 @@ baidu:
 jiguang:
   mastersecret: 4b9b1c29efd1109cfde08b84
   appkey: 24286bbb7fde1ab272b71a6e
-  templateId: 147175
+  templateId: 147174
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
