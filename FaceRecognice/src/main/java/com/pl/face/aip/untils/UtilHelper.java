@@ -16,6 +16,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
+import com.github.stuxuhai.jpinyin.PinyinException;
+import com.github.stuxuhai.jpinyin.PinyinFormat;
+import com.github.stuxuhai.jpinyin.PinyinHelper;
 import org.apache.commons.codec.binary.Base64;
 import org.apache.http.HttpEntity;
 import org.apache.http.NameValuePair;
@@ -76,4 +79,15 @@ public class UtilHelper {
 		}
 
 	}
+	public static String hanzi2pinyin(String name){
+		String pinyin = "";
+		try {
+			pinyin = PinyinHelper.convertToPinyinString(name, "",
+					PinyinFormat.WITHOUT_TONE);
+		} catch (PinyinException e) {
+			e.printStackTrace();
+		}
+		return pinyin;
+	}
+
     }

@@ -1,5 +1,6 @@
 package com.pl.face.aip;
 
+import cn.jsms.api.common.SMSClient;
 import com.baidu.aip.face.AipFace;
 import com.baidu.aip.speech.AipSpeech;
 import org.springframework.beans.factory.annotation.Value;
@@ -19,6 +20,10 @@ public class FaceRecognitionApplication {
 	private String API_KEY;
 	@Value("${baidu.secretkey}")
 	private String SECRET_KEY;
+	@Value("${jiguang.mastersecret}")
+	private String MASTERSECRET;
+	@Value("${jiguang.appkey}")
+	private String APPKEY;
 	public static void main(String[] args) {
 		SpringApplication.run(FaceRecognitionApplication.class, args);
 	}
@@ -40,6 +45,12 @@ public class FaceRecognitionApplication {
 		AipFace client = new AipFace(APP_ID, API_KEY, SECRET_KEY);
 		client.setConnectionTimeoutInMillis(2000);
 		return client;
+	}
+	//极光短信
+	@Bean(name="smsClient")
+	public SMSClient smsClient(){
+		SMSClient smsClient = new SMSClient(MASTERSECRET,APPKEY);
+		return smsClient;
 	}
 
 	//百度语言Client init
